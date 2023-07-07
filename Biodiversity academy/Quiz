@@ -1,0 +1,34 @@
+class Question:
+    def __init__(self, prompt, answer):
+        self.prompt = prompt
+        self.answer = answer
+
+# Create a list of questions
+questions = [
+    Question("What is the capital of France? ", "Paris"),
+    Question("What is the largest planet in our solar system? ", "Jupiter"),
+    Question("Which country is home to the kangaroo? ", "Australia")
+]
+
+def run_quiz(questions):
+    score = 0
+    for question in questions:
+        user_answer = input(question.prompt)
+        if user_answer.lower() == question.answer.lower():
+            score += 1
+    print("You got", score, "out of", len(questions), "correct!")
+
+run_quiz(questions)
+In this example, the Question class represents each question in the quiz. It has two attributes: prompt (the question itself) and answer (the correct answer).
+
+The list questions holds instances of the Question class, representing the quiz questions and their respective answers.
+
+The run_quiz function takes the questions list as input. It presents each question to the user, prompts them to input an answer, and checks if the answer is correct. If the answer is correct, the score is incremented. Finally, the function displays the user's score.
+
+You can add more questions to the questions list to expand the quiz. Feel free to modify the code to suit your needs and add additional features such as timers, multiple-choice questions, or a scoring system.
+
+
+
+
+
+

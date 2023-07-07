@@ -1,0 +1,78 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url("Biodiversity\ 6.jpg");
+    background-size: cover;
+    color: black;
+    padding:  15rem;
+    opacity: 6;
+    
+}
+.Graduation-hat{
+    margin-left:49rem;
+    margin-top: -30%;
+    size: 5rem;
+   
+}
+
+.nav-links {
+  display: inline-flex;
+ gap: 27px;
+ margin-top: -25rem;
+ font-size: xx-large;
+ margin-left: 3rem;
+ 
+ 
+}
+
+.nav-links > a {
+    text-decoration: dotted;
+    color: blue;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+
+
+.home-desc{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+    padding-top:8rem;
+    color: black;
+    background-color: rgb(226, 215, 215);
+}
+
+.home-desc > img{
+    width: 800px;
+    height: 400px;
+    margin-left: -3rem;
+    margin-top: -4rem;
+}
+.home-content{
+    width: 80%;  
+    margin-left: 3rem; 
+    margin-top: -4.5rem;
+}
+.slogan {
+    margin-left: -75rem;
+    margin-right: -45rem;
+    margin-top: 8rem;
+    font-weight: bolder;
+    color: rgb(7, 7, 7);
+    font-size: x-large;
+   
+}
+
+.nav-bar> img{
+    margin-left: -2rem;
+    margin-top: 5rem;
+    width: 50rem;
+ }
+ .Welcome{
+    text-align: center;
+    margin-left: 7rem;
+    color: rgb(7, 1, 1);
+ }
