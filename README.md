@@ -1,2 +1,2 @@
 # Final-project-Cohort3-Biodiversity-Academy-
-Biodiversity-Online-Academy
+Biodiversity-Online-Academy dedicated to spreading awareness about the importance of biodiversity and providing opportunities for everyone to contribute towards its preservation.
