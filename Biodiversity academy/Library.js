@@ -27,6 +27,18 @@ var books = [
 
     },
     {
+      title:"Invasive alien species and biodiversity: impacts and management",
+      author:"Rodolfo Gentili, Urs Schaffner, Adriano Martinoli & Sandra Citterio",
+      pdf:"file:///D:/Web%20development/Portfolio/Biodiversity%20academy/Invasive%20alien%20species%20and%20biodiversity%20impacts%20and%20management.pdf"
+    },
+    {
+      title:"The threat of invasive species to IUCN-listed critically endangered species",
+      author:"Duenas, M. A., Hemming, D. J., Roberts, A., & Diaz-Soltero, H.",
+      pdf:"file:///D:/Web%20development/Portfolio/Biodiversity%20academy/Global%20ecology%20and%20conservation.pdf",
+    
+    },
+
+    {
         title:"Addressing the implementation challenge of the global biodiversity framework",
         author:"Phang, S. C., Failler, P., & Bridgewater, P.",
         pdf:"file:///D:/Web%20development/Portfolio/Library/Addressing%20the%20implementation%20challenge%20of%20the%20global%20biodiversity%20framework.pdf"

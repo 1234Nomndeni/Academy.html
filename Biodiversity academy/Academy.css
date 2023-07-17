@@ -76,3 +76,42 @@
     margin-left: 7rem;
     color: rgb(7, 1, 1);
  }
+ .contact {
+    background-color: #382bf0;
+    background-size: cover;
+    padding: 100px;
+    margin-left: -49px;
+    margin-right: -210px;
+  }
+  .contact h2 {
+    color: #ad1b1b;
+    font-size: 50px;
+    margin-bottom: -10px;
+  }
+  
+  .contact p {
+    color: #8f0808;
+    font-size: 25px;
+    margin-bottom: 5px;
+  }
+  
+  .box {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+  }
+  
+  .box h3 {
+    color: #333;
+    font-size: 18px;
+    block-size: 50%;
+  }
+  
+  .box p {
+    color: #555;
+    font-size: 14px;
+  }
+  
+  
+  

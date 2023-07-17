@@ -15,11 +15,46 @@ var questions = [
       answer: "All of the above"
     },
     {
+        question:"Pluralism is not part of biodiversity conservation ethics",
+        options: ["False", "True",],
+        answer:"False",
+        },
+    {
     question:"What are the global challanges of biodiversity?",
-    options: ["Invasive alien plants", "Climate change", "Habitat loss", "Pollution"],
+    options: ["Invasive alien plants", "Climate change","All of the above", "Habitat loss", "Pollution"],
     answer:"All of the above",
-    }
-
+    },
+    {
+        question:"Ecocentrism is giving intrinsic value to all living and nonliing organisms",
+        options: ["False", "True",],
+        answer:"True",
+        },
+        {
+            question:"Meeting the needs of the present generation without compromising the needs of the future generation is known as what?",
+            options: ["Development", "Conservation ", "Suatainable development","Biodiversity"],
+            answer:"Sustainable Development",
+            },
+     {
+        question:"International Union for the conservation of Nature (IUCN) is known is an international organisation working in the feild of nature conservation and the sustainable use of natural reosurces",
+        options: ["False", "True",],
+        answer:"True",
+        },
+        {
+            question:"What is endangered species?",
+            options: ["Animal spcecies", "Species which act as an umbrella for the conservation of other species","Species that are under the risk of extiction in the near future",],
+            answer:"Species that are under the risk of extiction in the near future",
+            },
+        {
+        question:"IUCN Red list contain a list of threatned species worldwide?",
+        options: ["True", "False",],
+        answer:"True",
+        },
+        {
+            question:"How does invasive alien species impact biodiversity?",
+            options: ["Outcompete native species for resources", "All of the above","Promote the transmission of diseases","Promote the impact of climate change"],
+            answer:"True",
+            },
+    
   ];
   
   var currentQuestion = 0;
